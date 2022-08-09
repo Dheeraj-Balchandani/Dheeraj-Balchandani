@@ -1,6 +1,5 @@
 - Hi there! I am Dheeraj Balchandani.
-- 🔭 I’m currently working on Machine Learning and Web Development
-- 🌱 I’m currently learning Web Technologies such as React.js and Node.js.
-- 👯 I’m looking to collaborate on ML and Web projects.
-- 💬 Lets talk about ML and Web Technologies.
+- 🔭 I’m currently working on Machine Learning.
+- 👯 I’m looking to collaborate on ML projects.
+- 💬 Lets talk about ML Technologies.
 - 📫 How to reach me : dheerajb.9636@gmail.com
